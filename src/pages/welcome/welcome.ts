@@ -18,7 +18,7 @@ export class WelcomePage {
 
   }
 
-  showAlexa() {
+  showJoke() {
     let text = 'why does school ban children from bringing scissors to class ?';
     let alert = this.alertCtrl.create({
       title: 'Cut class',
